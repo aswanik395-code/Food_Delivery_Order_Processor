@@ -1,0 +1,22 @@
+FOOD DELIVERY SAMPLE ORDERS
+
+Menu:
+Burger    - Rs. 120
+Pizza     - Rs. 250
+Sandwich  - Rs. 100
+Pasta     - Rs. 180
+Fries     - Rs. 80
+Juice     - Rs. 60
+
+Orders:
+1. Burger x2, Fries x1
+2. Pizza x1, Juice x2
+3. Sandwich x2, Juice x1
+4. Pasta x2
+5. Burger x1, Pizza x1
+6. Fries x3, Juice x2
+7. Pizza x2
+8. Sandwich x1, Pasta x1
+9. Burger x3
+10. Empty Order
+11. InvalidItem x2

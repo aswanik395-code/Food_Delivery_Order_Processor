@@ -1,0 +1,7 @@
+===== DAILY SALES REPORT =====
+Total Orders: 11
+Successful Orders: 9
+Failed Orders: 2
+Total Revenue: Rs. 3400.0
+Highest Order ID: 7
+Highest Order Value: Rs. 480.0
